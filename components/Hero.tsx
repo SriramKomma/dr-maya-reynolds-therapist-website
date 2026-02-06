@@ -36,7 +36,7 @@ export default function Hero() {
                 </span>
               </p>
 
-              <div className="flex justify-start">
+              <div className="flex justify-center lg:justify-start">
                 <Link
                   href="#contact"
                   className="inline-flex items-center gap-3 px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl">
